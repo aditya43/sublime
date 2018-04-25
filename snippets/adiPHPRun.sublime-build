@@ -1,0 +1,8 @@
+{
+    "cmd": ["C:\\laragon\\bin\\php\\php-7.1.1-Win32-VC14-x86\\php.exe", "$file"],
+    "file_regex": "*",
+    "selector": "source.php",
+    "word_wrap": "false",
+    "target": "ansi_color_build",
+    "syntax": "Packages/ANSIescape/ANSI.tmLanguage"
+}

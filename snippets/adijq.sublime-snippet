@@ -1,0 +1,22 @@
+<snippet>
+    <content>
+        <![CDATA[
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>$1</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $2
+    </script>
+</head>
+<body>
+    $3
+</body>
+</html>
+]]>
+    </content>
+    <tabTrigger>adijq</tabTrigger>
+    <scope>text.html</scope>
+</snippet>

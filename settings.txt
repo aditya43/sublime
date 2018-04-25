@@ -1,0 +1,77 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "b4",
+			"selector": "text.html"
+		},
+		{
+			"characters": "bs3",
+			"selector": "text.html"
+		},
+		{
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		},
+		{
+			"characters": ".",
+			"selector": "source.sql"
+		},
+		{
+			"characters": "<$",
+			"selector": "text.html"
+		}
+	],
+	"auto_complete_with_fields": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Facebook.tmTheme",
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"drag_text": false,
+	"draw_indent_guides": false,
+	"enable_tab_scrolling": false,
+	"font_face": "Fira Code",
+	"font_options":
+	[
+		"gdi"
+	],
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"HTML-CSS-JS Prettify",
+		"Vintage"
+	],
+	"index_files": true,
+	"line_numbers": true,
+	"line_padding_bottom": 11,
+	"line_padding_top": 11,
+	"margin": 15,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_accent_yellow": true,
+	"material_theme_big_fileicons": true,
+	"shift_tab_unindent": true,
+	"show_panel_on_build": true,
+	"tab_size": 4,
+	"theme": "Material-Theme-Palenight.sublime-theme",
+	"theme_font_options":
+	[
+		"gdi"
+	],
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

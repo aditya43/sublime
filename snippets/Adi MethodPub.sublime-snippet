@@ -1,0 +1,12 @@
+<snippet>
+    <content>
+        <![CDATA[
+${1:public} function ${2}()
+{
+    ${3}
+}
+]]>
+    </content>
+    <tabTrigger>pub</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

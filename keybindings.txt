@@ -1,0 +1,39 @@
+[
+    {
+        "keys": ["ctrl+w"],
+        "command": "close_file"
+    },
+    {
+        "keys": ["ctrl+alt+r"],
+        "command": "advanced_new_file_move"
+    },
+    {
+        "keys": ["f9"],
+        "command": "find_use"
+    },
+    {
+        "keys": ["shift+f9"],
+        "command": "find_use",
+        "args":
+        {
+            "leading_separator": true
+        }
+    },
+    {
+        "keys": ["f10"],
+        "command": "expand_fqcn"
+    },
+    {
+        "keys": ["shift+f10"],
+        "command": "expand_fqcn",
+        "args":
+        {
+            "leading_separator": true
+        }
+    },
+    {
+        "keys": ["f11"],
+        "command": "insert_php_constructor_property"
+    },
+
+]

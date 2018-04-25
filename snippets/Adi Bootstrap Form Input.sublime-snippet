@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<div class="form-group">
+    <label for="${1:title}">${2:Title}:</label>
+    <input type="text" class="form-control {{ \$errors->has('${1:title}') ? 'is-invalid' : ''}}" name="${1:title}" id="${1:title}" value="{{ old('${1:title}') }}">
+    <div class="invalid-feedback">{{ \$errors->first('${1:title}') }}</div>
+</div>
+]]></content>
+<tabTrigger>bin</tabTrigger>
+<scope>text.blade</scope>
+<description>Bootstrap Input Text - Adi</description>
+</snippet>
